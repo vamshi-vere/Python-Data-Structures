@@ -1,2 +1,2 @@
 # Python-Data-Structures
-implementation of all the data structures in python
+Theory about the pyhton data structures and their problems on how they are implemented , accessed and modified
